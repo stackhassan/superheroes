@@ -50,6 +50,8 @@ npm test
 
 and the following test suites will get executed
 
+## 5. **Open the Application**
+
 Open the following url to add superheroes
 
 ```
