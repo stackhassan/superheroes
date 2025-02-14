@@ -49,3 +49,9 @@ npm test
 ```
 
 and the following test suites will get executed
+
+Open the following url to add superheroes
+
+```
+http://localhost:5000/
+```
