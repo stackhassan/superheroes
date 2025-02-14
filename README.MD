@@ -1,6 +1,6 @@
 ### **A Superheroes Application**
 
-![Alt text](Readme Docs/superheroes.png)
+![Alt text]("Readme Docs/superheroes.png")
 
 
 ## 1. **Team Collaboration on this Superhero Application**
